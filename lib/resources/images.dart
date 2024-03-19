@@ -1,0 +1,51 @@
+part of 'resources.dart';
+
+class Images {
+  Images._();
+
+  static const String item00 = 'assets/images/item_0_0.png';
+  static const String item01 = 'assets/images/item_0_1.png';
+  static const String item02 = 'assets/images/item_0_2.png';
+  static const String item03 = 'assets/images/item_0_3.png';
+  static const String item10 = 'assets/images/item_1_0.png';
+  static const String item11 = 'assets/images/item_1_1.png';
+  static const String item12 = 'assets/images/item_1_2.png';
+  static const String item13 = 'assets/images/item_1_3.png';
+  static const String item20 = 'assets/images/item_2_0.png';
+  static const String item21 = 'assets/images/item_2_1.png';
+  static const String item22 = 'assets/images/item_2_2.png';
+  static const String item23 = 'assets/images/item_2_3.png';
+  static const String item30 = 'assets/images/item_3_0.png';
+  static const String item31 = 'assets/images/item_3_1.png';
+  static const String item32 = 'assets/images/item_3_2.png';
+  static const String item33 = 'assets/images/item_3_3.png';
+  static const String item40 = 'assets/images/item_4_0.png';
+  static const String item41 = 'assets/images/item_4_1.png';
+  static const String item42 = 'assets/images/item_4_2.png';
+  static const String item43 = 'assets/images/item_4_3.png';
+  static const String item50 = 'assets/images/item_5_0.png';
+  static const String item51 = 'assets/images/item_5_1.png';
+  static const String item52 = 'assets/images/item_5_2.png';
+  static const String item53 = 'assets/images/item_5_3.png';
+  static const String lock = 'assets/images/lock.png';
+  static const String lvl0 = 'assets/images/lvl_0.png';
+  static const String lvl1 = 'assets/images/lvl_1.png';
+  static const String lvl2 = 'assets/images/lvl_2.png';
+  static const String lvl3 = 'assets/images/lvl_3.png';
+  static const String lvl4 = 'assets/images/lvl_4.png';
+  static const String lvl5 = 'assets/images/lvl_5.png';
+  static const String totBigPrizeWwr = 'assets/images/tot_big_prize_wwr.png';
+  static const String totCoinOos = 'assets/images/tot_coin_oos.png';
+  static const String totFirstSsq = 'assets/images/tot_first_ssq.png';
+  static const String totLogoKaw = 'assets/images/tot_logo_kaw.png';
+  static const String totLongLogoNqq = 'assets/images/tot_long_logo_nqq.png';
+  static const String totLoseEff = 'assets/images/tot_lose_eff.png';
+  static const String totOnbAdv = 'assets/images/tot_onb_adv.png';
+  static const String totOnbNqj = 'assets/images/tot_onb_nqj.png';
+  static const String totOnbPqx = 'assets/images/tot_onb_pqx.png';
+  static const String totPrizeZss = 'assets/images/tot_prize_zss.png';
+  static const String totSettingsSsf = 'assets/images/tot_settings_ssf.png';
+  static const String totTimeEei = 'assets/images/tot_time_eei.png';
+  static const String totWinOoi = 'assets/images/tot_win_ooi.png';
+  static const String unlock = 'assets/images/unlock.png';
+}
